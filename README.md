@@ -59,10 +59,10 @@ The dataset itself consists of images and is pre-split into a training set and a
 
 ## Data Exploration:
 #### Spirals and waves drawn by healthy people:
-<img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/healthy.PNG?raw=true" width="40%"> <img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/wave-healthy.PNG?raw=true" width="40%">
+<img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/healthy.PNG?raw=true" width="50%"> <img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/wave-healthy.PNG?raw=true" width="50%">
 
 #### Spirals and waves drawn by people with Parkinson:
-<img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/parkinson.PNG?raw=true" width= "40%"> <img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/wave-parkinson.PNG?raw=true" width= "40%">
+<img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/parkinson.PNG?raw=true" width= "50%"> <img src="https://github.com/Pradnya1208/Parkinsons-disease-prediction-using-CNN/blob/main/output/wave-parkinson.PNG?raw=true" width= "50%">
 
 ## Model training and evaluation:
 
